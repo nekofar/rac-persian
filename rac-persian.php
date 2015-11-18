@@ -2,7 +2,7 @@
 
 /*
 	Plugin Name: Recover Abandoned Cart Persian
-	Plugin URI: http://github.com/nekofar/recoverabandoncart-persian
+	Plugin URI: http://github.com/nekofar/rac-persian
 	Description: Persian improvements for Recover Abandoned Cart plugin of Wordpress.
 	Version: 0.1.0
 	Author: Milad Nekofar
