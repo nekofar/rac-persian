@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Recover Abandoned Cart\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: Wed Nov 18 2015 11:31:11 GMT+0330 (IRST)\n"
-"PO-Revision-Date: 2015-11-18 11:53+0330\n"
+"PO-Revision-Date: 2015-11-18 12:01+0330\n"
 "Last-Translator: Milad Nekofar <milad@nekofar.com>\n"
 "Language-Team: \n"
 "Language: fa\n"
@@ -38,7 +38,7 @@ msgstr ""
 
 #: ../recoverabandoncart.php:51
 msgid "General Settings"
-msgstr ""
+msgstr "تنظیمات عمومی"
 
 #: ../recoverabandoncart.php:52 ../recoverabandoncart.php:1590
 msgid "Email Settings"
@@ -50,15 +50,15 @@ msgstr "فهرست سبد خرید"
 
 #: ../recoverabandoncart.php:54
 msgid "Check Previous Orders"
-msgstr ""
+msgstr "بررسی سفارشات قبلی"
 
 #: ../recoverabandoncart.php:55
 msgid "Coupon In Mail"
-msgstr ""
+msgstr "کوپن در ایمیل"
 
 #: ../recoverabandoncart.php:56
 msgid "Mail Log"
-msgstr ""
+msgstr "گزارش ایمیل"
 
 #: ../recoverabandoncart.php:57
 msgid "Troubleshoot"
@@ -66,15 +66,15 @@ msgstr ""
 
 #: ../recoverabandoncart.php:58
 msgid "Reports"
-msgstr ""
+msgstr "گزارش ها"
 
 #: ../recoverabandoncart.php:59
 msgid "Recovered Orders"
-msgstr ""
+msgstr "سفارشات بازیابی شده"
 
 #: ../recoverabandoncart.php:60
 msgid "Shortcodes"
-msgstr ""
+msgstr "شورت کد ها"
 
 #: ../recoverabandoncart.php:61
 msgid "Support"
@@ -206,7 +206,7 @@ msgstr ""
 
 #: ../recoverabandoncart.php:1130
 msgid "Time Settings"
-msgstr ""
+msgstr "تنظیمات زمان"
 
 #: ../recoverabandoncart.php:1137
 msgid "Abandon Cart Time Type for Members"
@@ -727,7 +727,7 @@ msgstr "مستندات"
 
 #: ../recoverabandoncart.php:2107 ../recoverabandoncart.php:5583
 msgid "Search for a customer&hellip;"
-msgstr ""
+msgstr "جستجو مشتری&hellip;"
 
 #: ../recoverabandoncart.php:2148
 msgid "Coupon Code"
@@ -803,7 +803,7 @@ msgstr ""
 
 #: ../recoverabandoncart.php:2253
 msgid "Select Category"
-msgstr ""
+msgstr "انتخاب دسته"
 
 #: ../recoverabandoncart.php:2254
 msgid "Select Category to enable redeeming"
@@ -948,7 +948,7 @@ msgstr ""
 
 #: ../recoverabandoncart.php:3716
 msgid "Price"
-msgstr ""
+msgstr "قیمت"
 
 #: ../recoverabandoncart.php:4482 ../recoverabandoncart.php:4508
 msgid "Exclude Products from using Coupon"
@@ -956,7 +956,7 @@ msgstr ""
 
 #: ../recoverabandoncart.php:4485 ../recoverabandoncart.php:4555
 msgid "Search for a product&hellip;"
-msgstr ""
+msgstr "جستجو محصول&hellip;"
 
 #: ../recoverabandoncart.php:4552 ../recoverabandoncart.php:4578
 msgid "Products"
