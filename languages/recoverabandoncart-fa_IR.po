@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Recover Abandoned Cart\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: Wed Nov 18 2015 11:31:11 GMT+0330 (IRST)\n"
-"PO-Revision-Date: 2015-11-18 11:33+0330\n"
+"PO-Revision-Date: 2015-11-18 11:53+0330\n"
 "Last-Translator: Milad Nekofar <milad@nekofar.com>\n"
 "Language-Team: \n"
 "Language: fa\n"
@@ -24,7 +24,7 @@ msgstr ""
 
 #. Name of the plugin
 msgid "Recover Abandoned Cart"
-msgstr ""
+msgstr "بازیابی سبد خرید رها شده"
 
 #. Description of the plugin
 msgid ""
@@ -42,11 +42,11 @@ msgstr ""
 
 #: ../recoverabandoncart.php:52 ../recoverabandoncart.php:1590
 msgid "Email Settings"
-msgstr ""
+msgstr "تنظیمات ایمیل"
 
 #: ../recoverabandoncart.php:53
 msgid "Cart List"
-msgstr ""
+msgstr "فهرست سبد خرید"
 
 #: ../recoverabandoncart.php:54
 msgid "Check Previous Orders"
@@ -78,7 +78,7 @@ msgstr ""
 
 #: ../recoverabandoncart.php:61
 msgid "Support"
-msgstr ""
+msgstr "پشتیبانی"
 
 #: ../recoverabandoncart.php:109
 msgid "Action failed. Please refresh the page and retry."
@@ -86,16 +86,16 @@ msgstr ""
 
 #: ../recoverabandoncart.php:159
 msgid "Your settings have been saved."
-msgstr ""
+msgstr "تنظیمات شما ذخیره شد"
 
 #: ../recoverabandoncart.php:161
 msgid "Your settings have been Restored."
-msgstr ""
+msgstr "تنظیمات شما بازگردانی شد"
 
 #: ../recoverabandoncart.php:188 ../recoverabandoncart.php:877 ..
 #: /recoverabandoncart.php:973 ../recoverabandoncart.php:1050
 msgid "Save"
-msgstr ""
+msgstr "ذخیره"
 
 #: ../recoverabandoncart.php:193
 msgid "Mail Template Settings"
@@ -128,17 +128,17 @@ msgstr ""
 #: ../recoverabandoncart.php:230 ../recoverabandoncart.php:406 ..
 #: /recoverabandoncart.php:555 ../recoverabandoncart.php:747
 msgid "From Name"
-msgstr ""
+msgstr "از نام"
 
 #: ../recoverabandoncart.php:231 ../recoverabandoncart.php:408 ..
 #: /recoverabandoncart.php:559 ../recoverabandoncart.php:748
 msgid "From Email"
-msgstr ""
+msgstr "از ایمیل"
 
 #: ../recoverabandoncart.php:232 ../recoverabandoncart.php:410 ..
 #: /recoverabandoncart.php:749
 msgid "Subject"
-msgstr ""
+msgstr "موضوع"
 
 #: ../recoverabandoncart.php:233
 msgid "Duration to Send Mail After Abandoned Cart"
@@ -151,7 +151,7 @@ msgstr ""
 #: ../recoverabandoncart.php:240 ../recoverabandoncart.php:420 ..
 #: /recoverabandoncart.php:571 ../recoverabandoncart.php:750
 msgid "Message"
-msgstr ""
+msgstr "پیام"
 
 #: ../recoverabandoncart.php:413
 msgid "Send Mail Duration"
@@ -159,7 +159,7 @@ msgstr ""
 
 #: ../recoverabandoncart.php:425
 msgid "Save Changes"
-msgstr ""
+msgstr "ذخیره تغییرات"
 
 #: ../recoverabandoncart.php:426
 msgid "Return to Mail Templates"
@@ -171,15 +171,15 @@ msgstr ""
 
 #: ../recoverabandoncart.php:745 ../recoverabandoncart.php:3181
 msgid "ID"
-msgstr ""
+msgstr "شناسه"
 
 #: ../recoverabandoncart.php:751 ../recoverabandoncart.php:3186
 msgid "Status"
-msgstr ""
+msgstr "وضعیت"
 
 #: ../recoverabandoncart.php:752
 msgid "Email Preview"
-msgstr ""
+msgstr "پیش‌نمایش ایمیل"
 
 #: ../recoverabandoncart.php:753
 msgid "Duplicate"
@@ -187,11 +187,11 @@ msgstr ""
 
 #: ../recoverabandoncart.php:761
 msgid "Edit"
-msgstr ""
+msgstr "ویرایش"
 
 #: ../recoverabandoncart.php:761
 msgid "Delete"
-msgstr ""
+msgstr "حذف"
 
 #: ../recoverabandoncart.php:967
 msgid "Troubleshoot for Unsubscription Link in Footer"
@@ -210,7 +210,7 @@ msgstr ""
 
 #: ../recoverabandoncart.php:1137
 msgid "Abandon Cart Time Type for Members"
-msgstr ""
+msgstr "بازیابی نوع زمان سبد خرید برای اعضا"
 
 #: ../recoverabandoncart.php:1138
 msgid "Please Select wether the time should be in Minutes/Hours/Days for Members"
@@ -218,7 +218,7 @@ msgstr ""
 
 #: ../recoverabandoncart.php:1150
 msgid "Abandon Cart Time for Members"
-msgstr ""
+msgstr "بازیابی زمان سبد خرید برای اعضا"
 
 #: ../recoverabandoncart.php:1151
 msgid ""
@@ -228,7 +228,7 @@ msgstr ""
 
 #: ../recoverabandoncart.php:1162
 msgid "Abandon Cart Time Type for Guest"
-msgstr ""
+msgstr "بازیابی نوع زمان سبد خرید برای مهمان"
 
 #: ../recoverabandoncart.php:1163
 msgid "Please Select wether the time should be in Minutes/Hours/Days for Guest"
@@ -236,7 +236,7 @@ msgstr ""
 
 #: ../recoverabandoncart.php:1175
 msgid "Abandon Cart Time for Guest"
-msgstr ""
+msgstr "بازیابی زمان سبد خرید برای مهمان"
 
 #: ../recoverabandoncart.php:1176
 msgid ""
@@ -532,7 +532,7 @@ msgstr ""
 
 #: ../recoverabandoncart.php:1678
 msgid "Cart Link"
-msgstr ""
+msgstr "لینک سبد خرید"
 
 #: ../recoverabandoncart.php:1679
 msgid "Customize the Cart Link in Email Template"
@@ -544,15 +544,15 @@ msgstr ""
 
 #: ../recoverabandoncart.php:1689
 msgid "URL"
-msgstr ""
+msgstr "آدرس"
 
 #: ../recoverabandoncart.php:1690
 msgid "Button"
-msgstr ""
+msgstr "دکمه"
 
 #: ../recoverabandoncart.php:1695
 msgid "Button Background Color"
-msgstr ""
+msgstr "پس‌زمینه لینک دکنه"
 
 #: ../recoverabandoncart.php:1696
 msgid "Customize Button Background Color in Email"
@@ -560,7 +560,7 @@ msgstr ""
 
 #: ../recoverabandoncart.php:1708
 msgid "Button Link Color"
-msgstr ""
+msgstr "رنگ لینک دکمه"
 
 #: ../recoverabandoncart.php:1709
 msgid "Customize Button Link Color"
@@ -584,7 +584,7 @@ msgstr ""
 
 #: ../recoverabandoncart.php:1743
 msgid "Enable"
-msgstr ""
+msgstr "فعال"
 
 #: ../recoverabandoncart.php:1752
 msgid "Unsubscription Link Text"
@@ -723,7 +723,7 @@ msgstr ""
 
 #: ../recoverabandoncart.php:1981
 msgid "Documentation"
-msgstr ""
+msgstr "مستندات"
 
 #: ../recoverabandoncart.php:2107 ../recoverabandoncart.php:5583
 msgid "Search for a customer&hellip;"
@@ -731,7 +731,7 @@ msgstr ""
 
 #: ../recoverabandoncart.php:2148
 msgid "Coupon Code"
-msgstr ""
+msgstr "کد کوپن تخفیف"
 
 #: ../recoverabandoncart.php:2155
 msgid "Prefix Text of Coupon Code"
@@ -743,11 +743,11 @@ msgstr ""
 
 #: ../recoverabandoncart.php:2163
 msgid "Default"
-msgstr ""
+msgstr "پیشفرض"
 
 #: ../recoverabandoncart.php:2164
 msgid "Custom"
-msgstr ""
+msgstr "دلخواه"
 
 #: ../recoverabandoncart.php:2171
 msgid "Custom Prefix Text of Coupon Code"
@@ -767,7 +767,7 @@ msgstr ""
 
 #: ../recoverabandoncart.php:2196
 msgid "Value"
-msgstr ""
+msgstr "مقدار"
 
 #: ../recoverabandoncart.php:2197
 #, php-format
@@ -863,7 +863,7 @@ msgstr ""
 
 #: ../recoverabandoncart.php:3184
 msgid "Email ID / Phone Number"
-msgstr ""
+msgstr "شناسه ایمیل یا شماره تلفن"
 
 #: ../recoverabandoncart.php:3185
 msgid "Abandoned Date/Time"
@@ -875,7 +875,7 @@ msgstr ""
 
 #: ../recoverabandoncart.php:3188
 msgid "Recovered Order ID"
-msgstr ""
+msgstr "شناسه سفارش بازیابی شده"
 
 #: ../recoverabandoncart.php:3189
 msgid "Coupon Used"
@@ -903,7 +903,7 @@ msgstr ""
 
 #: ../recoverabandoncart.php:3203 ../recoverabandoncart.php:3542
 msgid "Deselct All"
-msgstr ""
+msgstr "حذف همه"
 
 #: ../recoverabandoncart.php:3204 ../recoverabandoncart.php:3542
 msgid "Delete Selected"
@@ -915,16 +915,16 @@ msgstr ""
 
 #: ../recoverabandoncart.php:3424
 msgid "Restore"
-msgstr ""
+msgstr "بازگردانی"
 
 #: ../recoverabandoncart.php:3537
 #: ../inc/class_list_table_fp_rac_recovered_order. php:72
 msgid "S.No"
-msgstr ""
+msgstr "ردیف"
 
 #: ../recoverabandoncart.php:3538
 msgid "Email Id"
-msgstr ""
+msgstr "شناسه ایمیل"
 
 #: ../recoverabandoncart.php:3539
 msgid "Date/Time"
@@ -940,7 +940,7 @@ msgstr ""
 
 #: ../recoverabandoncart.php:3714
 msgid "Product"
-msgstr ""
+msgstr "محصول"
 
 #: ../recoverabandoncart.php:3715
 msgid "Quantity"
@@ -960,7 +960,7 @@ msgstr ""
 
 #: ../recoverabandoncart.php:4552 ../recoverabandoncart.php:4578
 msgid "Products"
-msgstr ""
+msgstr "محصولات"
 
 #: ../recoverabandoncart.php:5191
 msgid "Number of Carts Recovered"
@@ -972,11 +972,11 @@ msgstr ""
 
 #: ../inc/rac_settings_backward_compatibility.php:86
 msgid "Width"
-msgstr ""
+msgstr "عرض"
 
 #: ../inc/rac_settings_backward_compatibility.php:93
 msgid "Height"
-msgstr ""
+msgstr "طول"
 
 #: ../inc/rac_settings_backward_compatibility.php:100
 msgid "Hard Crop"
@@ -996,7 +996,7 @@ msgstr ""
 
 #: ../inc/class_list_table_fp_rac_recovered_order.php:73
 msgid "Order ID"
-msgstr ""
+msgstr "شناسه سفارش"
 
 #: ../inc/class_list_table_fp_rac_recovered_order.php:74
 msgid "Recover Sale Total"
@@ -1004,4 +1004,4 @@ msgstr ""
 
 #: ../inc/class_list_table_fp_rac_recovered_order.php:75
 msgid "Date"
-msgstr ""
+msgstr "تاریخ"
